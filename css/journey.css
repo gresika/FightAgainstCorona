@@ -1,0 +1,32 @@
+/* Journey */
+#testimonials{padding-top: 0.4%; padding-bottom:5%; background-color: black;}
+
+.ij{color:white;
+    text-align: center;
+    font-family: "Montserrat";
+    font-size:3rem;
+    line-height: 1.5;
+    padding-bottom:5px;}
+
+.fc{background-color: black;
+         color:white;
+        font-family: "Montserrat";
+        font-size: 1.5rem;
+        line-height:1;
+        padding-bottom:1.5%;}
+
+.case{padding-left: 21%;
+      padding-top: 3%;
+      width: 80%;}
+
+.case2{padding-left: 25%;
+      padding-top: 3%;
+      width: 75%;}
+
+.case3{padding-left: 10%;
+      padding-top: 1.5%;
+      width: 90%;}
+
+.case4{padding-left: 25%;
+      padding-top: 1.5%;
+      width: 80%;}
